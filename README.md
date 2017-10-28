@@ -4,3 +4,7 @@
 
 * luentokalvot [1](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/kalvot/luento1.pdf?raw=true) [2](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/kalvot/luento2.pdf?raw=true) [3](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/kalvot/luento3.pdf?raw=true) 
 * laskarit: [1](https://github.com/mluukkai/ohjelmistotuotanto2017/blob/master/laskarit/1.md) 
+
+Testilinkit
+* luentokalvot [1](https://juhapekkamoilanen.github.io/ohjelmistotuotanto2017/kalvot/luento1.pdf) 
+* luentokalvot [2](https://juhapekkamoilanen.github.io/ohjelmistotuotanto2017/kalvot/luento2.pdf)
